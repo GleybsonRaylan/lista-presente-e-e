@@ -21,7 +21,7 @@ export const RELATIONSHIP_START_DATE = "2025-01-27T00:00:00-03:00";
 
 /** Nomes exibidos no site. */
 export const COUPLE_NAMES = {
-  bride: "Evaniele Larissa",
+  bride: "Evaniele Laressa",
   groom: "Emerson Herculano",
 };
 

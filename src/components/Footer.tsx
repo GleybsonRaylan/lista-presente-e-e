@@ -36,7 +36,7 @@ export default function Footer() {
         <h3 className="font-display text-2xl italic tracking-wide text-charcoal sm:text-3xl">
           Emerson Herculano
           <span className="mx-3 text-blush"> &amp; </span>
-          Evaniele Larissa
+          Evaniele Laressa
         </h3>
 
         {/* Mensagem */}

@@ -15,7 +15,7 @@ export default function Hero() {
   }, []);
 
   // ✅ COUPLE_NAMES é um objeto { bride, groom }
-  const nameA = COUPLE_NAMES?.bride ?? "Evaniele Larissa";
+  const nameA = COUPLE_NAMES?.bride ?? "Evaniele Laressa";
   const nameB = COUPLE_NAMES?.groom ?? "Emerson Herculano";
 
   return (
